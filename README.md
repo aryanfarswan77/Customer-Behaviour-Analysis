@@ -104,7 +104,7 @@ It reflects a real-world analytics approach, from raw data preparation to decisi
 
 ## Dashboard
 📌 The interactive dashboard is published on **Tableau Public**  
-(Add Tableau Public link here)
+(https://public.tableau.com/app/profile/aryan.farswan/viz/Customer_Behaviour/Dashboard2)
 
 ---
 
